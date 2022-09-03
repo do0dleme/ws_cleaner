@@ -1,0 +1,21 @@
+
+{
+	"entities" :
+	{
+		"remove" : []
+                            "
+	},
+	"items" :
+	{
+		"replace" : {}
+	},
+	"nodes" :
+	{
+		"remove" : [],
+		"replace" : {}
+	},
+	"ores" :
+	{
+		"remove" : []
+	}
+}
