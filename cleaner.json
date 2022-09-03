@@ -1,12 +1,7 @@
 {
 	"entities" :
 	{
-		"remove" : [
-            "technic:mineral_lead"
-            "technic:mineral_uranium"
-            "technic:mineral_chromium"
-            "technic:mineral_zinc"
-]
+		"remove" : []
 	},
 	"items" :
 	{
@@ -19,7 +14,7 @@
              "vacuum:vacuum"
              "technic:marble"
              "gloopblocks:stone_mossy"
-             :gloopblocks:pumice"
+             "gloopblocks:pumice"
              "gloopblocks:stone_brick_mossy"
 
 
@@ -36,6 +31,11 @@
 	},
 	"ores" :
 	{
-		"remove" : []
+		"remove" : [
+                           "technic:mineral_lead"
+                           "technic:mineral_uranium"
+                           "technic:mineral_chromium"
+                           "technic:mineral_zinc"
+]
 	}
 }
